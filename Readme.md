@@ -2,7 +2,7 @@
 
 * Студент: [Глеб Черников](https://up.htmlacademy.ru/htmlcss/40/user/2511339).
 * Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/id1462895).
-
+* Сайт: [Мой проект Седона](https://gangren32.github.io/2511339-sedona-40/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
